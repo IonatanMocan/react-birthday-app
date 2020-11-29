@@ -29,9 +29,9 @@ export default [
   },
   {
     id: 5,
-    name: 'Olga Harabajiu',
-    age: 29,
+    name: 'Olga Stefanisina',
+    age: 26,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+      'https://media-exp1.licdn.com/dms/image/C5603AQEHu8Xfkea4Hg/profile-displayphoto-shrink_200_200/0?e=1612396800&v=beta&t=qega3CDjXst_DRvlXFEIId9_MBksNguyNzdDPGsDWvA',
   },
 ];
