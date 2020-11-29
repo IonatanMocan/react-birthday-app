@@ -8,10 +8,10 @@ export default [
   },
   {
     id: 2,
-    name: 'Marcela Botnari',
-    age: 32,
+    name: 'Tatiana Namașco',
+    age: 27,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
+      'https://scontent.fclj3-1.fna.fbcdn.net/v/t1.0-9/121091423_10158116933333736_4930554046113432975_o.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=WMabda-dvb8AX_q8Pne&_nc_ht=scontent.fclj3-1.fna&oh=465e142eeff371518469742e45368fb9&oe=5FEA1349',
   },
   {
     id: 3,
