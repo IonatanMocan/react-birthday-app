@@ -1,10 +1,10 @@
 export default [
   {
     id: 1,
-    name: 'Valeria Turcan',
-    age: 29,
+    name: 'Diana Ivanov',
+    age: 25,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+      'https://images.gr-assets.com/users/1565730187p6/30423794.jpg',
   },
   {
     id: 2,
