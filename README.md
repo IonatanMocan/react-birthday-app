@@ -1,3 +1,3 @@
-## Idea
+## Live version
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+[mocan-react-birthday-app.netlify.app](https://mocan-react-birthday-app.netlify.app/)

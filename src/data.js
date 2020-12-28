@@ -8,10 +8,10 @@ export default [
   },
   {
     id: 2,
-    name: 'Tatiana Namașco',
+    name: 'Igor Namasco',
     age: 27,
     image:
-      'https://scontent.fclj3-1.fna.fbcdn.net/v/t1.0-9/121091423_10158116933333736_4930554046113432975_o.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=WMabda-dvb8AX_q8Pne&_nc_ht=scontent.fclj3-1.fna&oh=465e142eeff371518469742e45368fb9&oe=5FEA1349',
+      'https://m.footballdatabase.eu/images/photos/players/a_24/24956.jpg',
   },
   {
     id: 3,
